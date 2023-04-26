@@ -1,5 +1,7 @@
 # Guitar Teacher Landing Page
 
+Visit the site at (https://grinal82.github.io/)
+
 This is a landing page for a guitar teacher, made with HTML5, CSS, and basic Javascript. The page is designed to be adaptive for various devices and has been compiled using SASS.
 
 ## Table of Contents
